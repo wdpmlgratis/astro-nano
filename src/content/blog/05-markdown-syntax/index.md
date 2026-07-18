@@ -117,10 +117,6 @@ Add an quick link using the `<url>` pattern.
 <http://www.example.com>
 ```
 
-<Link href="https://github.com/markhorn-dev/astro-sphere" aria-label="Astro Sphere on Github" external>
-              Astro Sphere
-            </Link>.
-            
 <http://www.example.com>
 
 ---
